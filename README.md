@@ -1,4 +1,4 @@
-##### Isto é um fork, link original: <a href="https://github.com/gabriel-skinny/twitter-clone"></a>
+##### Isto é um fork, link original: no título
 # Twitter Clone
 
   Um clone da pagina Home do twitter feito com ReactJS que possui um botão que muda o tema de dark para light. 
